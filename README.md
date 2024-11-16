@@ -8,4 +8,5 @@ List of authentic Revanced source.
 
 ### Prebuilt apks
 - [revanced-apks](https://github.com/revanced-apks/build-apps/releases)
+- [revanced-extended](https://github.com/NoName-exe/revanced-extended/releases)
 - [AT-YT](https://github.com/Zenlua/AT-YT/releases)
