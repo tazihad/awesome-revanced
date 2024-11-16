@@ -18,3 +18,4 @@ List of authentic Revanced source.
 
 ### GmsCore
 - [revanced-gmscore](https://github.com/ReVanced/GmsCore/releases)
+- [MicroG-RE - Material You](https://github.com/WSTxda/MicroG-RE/releases)
