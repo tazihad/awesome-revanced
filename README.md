@@ -14,3 +14,6 @@ List of authentic Revanced source.
 
 ### PC builder
 - [rvx-builder](https://github.com/inotia00/rvx-builder/releases)
+
+### GmsCore
+- [revanced-gmscore](https://github.com/ReVanced/GmsCore/releases)
