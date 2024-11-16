@@ -10,6 +10,7 @@ List of authentic Revanced source.
 - [revanced-apks](https://github.com/revanced-apks/build-apps/releases)
 - [revanced-extended](https://github.com/NoName-exe/revanced-extended/releases)
 - [AT-YT](https://github.com/Zenlua/AT-YT/releases)
+- [revanced by j-hc](https://github.com/j-hc/revanced-magisk-module/releases)
 
 
 ### PC builder
