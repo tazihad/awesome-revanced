@@ -4,6 +4,7 @@ List of authentic Revanced source.
 #### Managers  
 - [revanced-manager](https://github.com/ReVanced/revanced-manager/releases)
 - [morphe-manager](https://github.com/MorpheApp/morphe-manager/releases)
+- [Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager/releases)
 - ~~[rvx-manager](https://github.com/inotia00/revanced-manager/releases)~~
 - ~~[prevanced](https://github.com/prevanced/prevanced-manager/releases)~~
 
@@ -17,5 +18,6 @@ List of authentic Revanced source.
 - [rvx-builder](https://github.com/inotia00/rvx-builder/releases)
 
 ### GmsCore
-- [revanced-gmscore](https://github.com/ReVanced/GmsCore/releases)
+- [GmsCore - gmscore](https://github.com/microg/GmsCore/releases)
+- [revanced - gmscore](https://github.com/ReVanced/GmsCore/releases)
 - [MicroG-RE - Morphe - Material You](https://github.com/MorpheApp/MicroG-RE/releases)
